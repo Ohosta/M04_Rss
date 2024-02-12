@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Nova Startup Desenvolupa Bateria Revolucionària amb Càrrega Instantània</title>
+  <link>http://www.exemplewebfictici.com</link>
+  <description>Últimes notícies i avanços en el món de la tecnologia.</description>
+  <pubDate>Mon, 10 Feb 2024 11:10:09 GMT</pubDate>
+  <language>ca</language>
+  
+
+  <item>
+    <title>Revolució en la Computació Quàntica</title>
+    <link>http://www.exemplewebfictici.com</link>
+    <description><![CDATA[<img src="../imatges/nom.png" alt="foto del meu nom" /> ]]></description>
+    <pubDate>Tue, 11 Feb 2024 12:11:10 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Intel·ligència Artificial Crea Obra d'Art Guanyadora en Prestigiós Concurs Internaciona</title>
+    <link>http://www.exemplewebfictici.com</link>
+    <description>Investigadors anuncien un gran avanç en la capacitat d'aprenentatge de les màquines.</description>
+    <pubDate>Thu, 12 Feb 2024 13:12:11 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Seguretat Informàtica: Nous Desafiaments i Solucions</title>
+    <link>http://www.exemplewebfictici.com</link>
+    <description>Experts en seguretat debaten sobre les últimes amenaces en línia i com protegir-se.</description>
+    <pubDate>Wed, 13 Feb 2024 13:33:03 GMT</pubDate>
+  </item>
+</channel>
+</rss>
