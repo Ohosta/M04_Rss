@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Nova Startup Desenvolupa Bateria Revolucionària amb Càrrega Instantània</title>
+  <link href="http://www.exemplewebfictici.com" rel="alternate"/>
+  <subtitle>Últimes notícies i avanços en el món de la tecnologia.</subtitle>
+  <updated>2024-02-12T00:00:00Z</updated>
+  <id>http://www.exemplewebfictici.com</id>
+  <author>
+    <name>Equip de Notícies de Tecnologia</name>
+  </author>
+
+  <entry>
+    <title>Revolució en la Computació Quàntica</title>
+    <link href="http://www.exemplewebfictici.com"/>
+    <id>http://www.exemplewebfictici.com/quàntica</id>
+    <updated>2024-02-09T00:00:00Z</updated>
+    <summary type="html">&lt;img src="nom.png" alt="foto del meu nom" /&gt; Una nova descoberta en computació quàntica promet accelerar el desenvolupament de noves tecnologies.</summary>
+  </entry>
+
+  <entry>
+    <title>Intel·ligència Artificial Crea Obra d'Art Guanyadora en Prestigiós Concurs Internaciona</title>
+    <link href="http://www.exemplewebfictici.com"/>
+    <id>http://www.exemplewebfictici.com/art-intel-ligencia</id>
+    <updated>2024-02-10T00:00:00Z</updated>
+    <summary>Investigadors anuncien un gran avanç en la capacitat d'aprenentatge de les màquines.</summary>
+  </entry>
+
+  <entry>
+    <title>Seguretat Informàtica: Nous Desafiaments i Solucions</title>
+    <link href="http://www.exemplewebfictici.com"/>
+    <id>http://www.exemplewebfictici.com/seguretat-informatica</id>
+    <updated>2024-02-11T00:00:00Z</updated>
+    <summary>Experts en seguretat debaten sobre les últimes amenaces en línia i com protegir-se.</summary>
+  </entry>
+</feed>
