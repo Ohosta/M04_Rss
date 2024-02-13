@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
+  <atom:link href="Atom/Atom_1.xml" rel="self" type="application/rss+xml" />
   <title>Nova Startup Desenvolupa Bateria Revolucionària amb Càrrega Instantània</title>
   <link>http://www.exemplewebfictici.com</link>
   <description>Últimes notícies i avanços en el món de la tecnologia.</description>
-  <pubDate>Mon, 10 Feb 2024 11:10:09 GMT</pubDate>
+  <pubDate>Fri, 31 Dec 2024 23:59:59 EST</pubDate>
   <language>ca</language>
-  
 
   <item>
     <title>Revolució en la Computació Quàntica</title>
-    <link>http://www.exemplewebfictici.com</link>
-    <description><![CDATA[<img src="imatges/nom.png" alt="foto del meu nom" /> ]]></description>
-    <pubDate>Tue, 11 Feb 2024 12:11:10 GMT</pubDate>
+    <link>http://www.exemplewebfictici.com/quantica</link>
+    <description><![CDATA[<img src="https://raw.githubusercontent.com/Ohosta/M04_Rss/main/imatges/nom.png" alt="foto del meu nom" /> ]]></description>
+    <pubDate>Mon, 10 Feb 2024 22:59:59 EST</pubDate>
+    <guid isPermaLink="true">http://www.exemplewebfictici.com/quantica</guid>
   </item>
 
   <item>
     <title>Intel·ligència Artificial Crea Obra d'Art Guanyadora en Prestigiós Concurs Internaciona</title>
-    <link>http://www.exemplewebfictici.com</link>
+    <link>http://www.exemplewebfictici.com/art-intelligencia</link>
     <description>Investigadors anuncien un gran avanç en la capacitat d'aprenentatge de les màquines.</description>
-    <pubDate>Thu, 12 Feb 2024 13:12:11 GMT</pubDate>
+    <pubDate>Sat, 23 Feb 2024 21:59:59 EST</pubDate>
+    <guid isPermaLink="true">http://www.exemplewebfictici.com/art-intelligencia</guid>
   </item>
 
   <item>
     <title>Seguretat Informàtica: Nous Desafiaments i Solucions</title>
-    <link>http://www.exemplewebfictici.com</link>
+    <link>http://www.exemplewebfictici.com/seguretat-informatica</link>
     <description>Experts en seguretat debaten sobre les últimes amenaces en línia i com protegir-se.</description>
-    <pubDate>Wed, 13 Feb 2024 13:33:03 GMT</pubDate>
+    <pubDate>Wed, 24 Dec 2024 20:59:59 EST</pubDate>
+    <guid isPermaLink="true">http://www.exemplewebfictici.com/seguretat-informatica</guid>
   </item>
 </channel>
 </rss>
