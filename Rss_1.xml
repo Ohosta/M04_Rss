@@ -3,33 +3,33 @@
 <channel>
   <atom:link href="Atom/Atom_1.xml" rel="self" type="application/rss+xml" />
   <title>Nova Startup Desenvolupa Bateria Revolucionària amb Càrrega Instantània</title>
-  <link>http://www.exemplewebfictici.com</link>
+  <link>https://es-us.noticias.yahoo.com/deportes/desarrollan-bater%C3%ADa-revolucionaria-carga-3-202843231.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAG0pLD3IWGOsyZAcnMOp9x7SWq4WJ7oZ7LRqfQP8CtoFFhlAwgJvxkY1iwRUMkCAk1UzZkpA7Br7p4YyUd9vrjOHMLv6mK64LuFFQJXSekYv6QCCUR8Bho_ZjXuz-3mwRL7Q0Vzy8U4scMjLax2SZQnzU_tPVX9-vQuOVQFWKTGL</link>
   <description>Últimes notícies i avanços en el món de la tecnologia.</description>
   <pubDate>Fri, 31 Dec 2024 23:59:59 EST</pubDate>
   <language>ca</language>
 
   <item>
     <title>Revolució en la Computació Quàntica</title>
-    <link>http://www.exemplewebfictici.com/quantica</link>
+    <link>https://www.inforolot.com/ca/la-computacio-quantica-es-la-proxima-revolucio-tecnologica/</link>
     <description><![CDATA[<img src="https://raw.githubusercontent.com/Ohosta/M04_Rss/main/imatges/nom.png" alt="foto del meu nom" /> ]]></description>
     <pubDate>Mon, 10 Feb 2024 22:59:59 EST</pubDate>
-    <guid isPermaLink="true">http://www.exemplewebfictici.com/quantica</guid>
+    <guid isPermaLink="true">https://www.inforolot.com/ca/la-computacio-quantica-es-la-proxima-revolucio-tecnologica/</guid>
   </item>
 
   <item>
-    <title>Intel·ligència Artificial Crea Obra d'Art Guanyadora en Prestigiós Concurs Internaciona</title>
-    <link>http://www.exemplewebfictici.com/art-intelligencia</link>
+    <title>Intel·ligència Artificial Crea Obra d'Art Guanyadora en Prestigiós Concurs Internacional</title>
+    <link>https://www.dw.com/es/cuadro-generado-por-inteligencia-artificial-gana-premio-y-desata-pol%C3%A9mica-en-el-mundo-del-arte/a-63060024</link>
     <description>Investigadors anuncien un gran avanç en la capacitat d'aprenentatge de les màquines.</description>
     <pubDate>Sat, 23 Feb 2024 21:59:59 EST</pubDate>
-    <guid isPermaLink="true">http://www.exemplewebfictici.com/art-intelligencia</guid>
+    <guid isPermaLink="true">https://www.dw.com/es/cuadro-generado-por-inteligencia-artificial-gana-premio-y-desata-pol%C3%A9mica-en-el-mundo-del-arte/a-63060024</guid>
   </item>
 
   <item>
     <title>Seguretat Informàtica: Nous Desafiaments i Solucions</title>
-    <link>http://www.exemplewebfictici.com/seguretat-informatica</link>
+    <link>https://notesdeseguretat.blog.gencat.cat/2018/12/17/els-desafiaments-de-seguretat-de-la-internet-de-les-coses/</link>
     <description>Experts en seguretat debaten sobre les últimes amenaces en línia i com protegir-se.</description>
     <pubDate>Wed, 24 Dec 2024 20:59:59 EST</pubDate>
-    <guid isPermaLink="true">http://www.exemplewebfictici.com/seguretat-informatica</guid>
+    <guid isPermaLink="true">https://notesdeseguretat.blog.gencat.cat/2018/12/17/els-desafiaments-de-seguretat-de-la-internet-de-les-coses/</guid>
   </item>
 </channel>
 </rss>

@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+ <link href="https://ohosta.github.io/M04_Rss/Atom/Atom_1.xml" rel="self" type="application/atom+xml"/>
 
   <title>Nova Startup Desenvolupa Bateria Revolucionària amb Càrrega Instantània</title>
-  <link href="http://www.exemplewebfictici.com" rel="alternate"/>
+  <link href="https://es-us.noticias.yahoo.com/deportes/desarrollan-bater%C3%ADa-revolucionaria-carga-3-202843231.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAG0pLD3IWGOsyZAcnMOp9x7SWq4WJ7oZ7LRqfQP8CtoFFhlAwgJvxkY1iwRUMkCAk1UzZkpA7Br7p4YyUd9vrjOHMLv6mK64LuFFQJXSekYv6QCCUR8Bho_ZjXuz-3mwRL7Q0Vzy8U4scMjLax2SZQnzU_tPVX9-vQuOVQFWKTGL" rel="alternate"/>
   <subtitle>Últimes notícies i avanços en el món de la tecnologia.</subtitle>
   <updated>2024-02-12T00:00:00Z</updated>
-  <id>http://www.exemplewebfictici.com</id>
+  <id>https://es-us.noticias.yahoo.com/deportes/desarrollan-bater%C3%ADa-revolucionaria-carga-3-202843231.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAG0pLD3IWGOsyZAcnMOp9x7SWq4WJ7oZ7LRqfQP8CtoFFhlAwgJvxkY1iwRUMkCAk1UzZkpA7Br7p4YyUd9vrjOHMLv6mK64LuFFQJXSekYv6QCCUR8Bho_ZjXuz-3mwRL7Q0Vzy8U4scMjLax2SZQnzU_tPVX9-vQuOVQFWKTGL</id>
   <author>
     <name>Equip de Notícies de Tecnologia</name>
   </author>
-
+  
   <entry>
     <title>Revolució en la Computació Quàntica</title>
-    <link href="http://www.exemplewebfictici.com"/>
-    <id>http://www.exemplewebfictici.com/quàntica</id>
+    <link href="https://www.inforolot.com/ca/la-computacio-quantica-es-la-proxima-revolucio-tecnologica/"/>
+    <id>https://www.inforolot.com/ca/la-computacio-quantica-es-la-proxima-revolucio-tecnologica/</id>
     <updated>2024-02-09T00:00:00Z</updated>
     <summary type="html">&lt;img src="https://raw.githubusercontent.com/Ohosta/M04_Rss/main/imatges/nom.png" alt="foto del meu nom" /&gt; Una nova descoberta en computació quàntica promet accelerar el desenvolupament de noves tecnologies.</summary>
   </entry>
 
   <entry>
     <title>Intel·ligència Artificial Crea Obra d'Art Guanyadora en Prestigiós Concurs Internaciona</title>
-    <link href="http://www.exemplewebfictici.com"/>
-    <id>http://www.exemplewebfictici.com/art-intel-ligencia</id>
+    <link href="https://www.dw.com/es/cuadro-generado-por-inteligencia-artificial-gana-premio-y-desata-pol%C3%A9mica-en-el-mundo-del-arte/a-63060024"/>
+    <id>https://www.dw.com/es/cuadro-generado-por-inteligencia-artificial-gana-premio-y-desata-pol%C3%A9mica-en-el-mundo-del-arte/a-63060024</id>
     <updated>2024-02-10T00:00:00Z</updated>
     <summary>Investigadors anuncien un gran avanç en la capacitat d'aprenentatge de les màquines.</summary>
   </entry>
 
   <entry>
     <title>Seguretat Informàtica: Nous Desafiaments i Solucions</title>
-    <link href="http://www.exemplewebfictici.com"/>
-    <id>http://www.exemplewebfictici.com/seguretat-informatica</id>
+    <link href="https://notesdeseguretat.blog.gencat.cat/2018/12/17/els-desafiaments-de-seguretat-de-la-internet-de-les-coses/"/>
+    <id>https://notesdeseguretat.blog.gencat.cat/2018/12/17/els-desafiaments-de-seguretat-de-la-internet-de-les-coses/</id>
     <updated>2024-02-11T00:00:00Z</updated>
     <summary>Experts en seguretat debaten sobre les últimes amenaces en línia i com protegir-se.</summary>
   </entry>
